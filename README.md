@@ -1,9 +1,8 @@
 <h1>Olá, mundo!</h1>
 
 - Belém/PA;
-- Acadêmico de Ciência da Computação(CESUPA) 1/8;
-- Meu foco no momento é Front-end;
-- Estudando/aprofundando TypeScript;
+- Acadêmico de Ciência da Computação(CESUPA) 2/8;
+- Meu foco no momento é DotNet 6;
 <hr>
 <div align="center">
   <a href="https://github.com/pedrohcoriolano">
