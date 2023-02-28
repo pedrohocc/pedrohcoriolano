@@ -1,11 +1,11 @@
 <h1>Olá, mundo!</h1>
 
 - Belém/PA;
-- Acadêmico de Ciência da Computação(CESUPA) 2/8;
-- Meu foco no momento é DotNet 6;
+- Computer Science 3/8;
+- Now my focus is a mobile development;
 <hr>
 <div align="center">
-  <a href="https://github.com/pedrohcoriolano">
+  <a href="https://github.com/pedrohocc">
   <img height="180em" width='380em' src="https://github-readme-stats.vercel.app/api?username=pedrohcoriolano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width='380em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcoriolano&layout=compact&langs_count=7&theme=dark"/>
 </div>
