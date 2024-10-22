@@ -2,7 +2,6 @@
 
 - Belém/PA;
 - Computer Science 6/8;
-- Now my focus is a mobile development;
 <hr>
 <div align="center">
   <a href="https://github.com/pedrohocc">
