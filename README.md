@@ -1,7 +1,7 @@
 <h1>Hello, World!</h1>
 
 - Belém/PA;
-- Computer Science 5/8;
+- Computer Science 6/8;
 - Now my focus is a mobile development;
 <hr>
 <div align="center">
